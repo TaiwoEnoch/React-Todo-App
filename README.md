@@ -12,7 +12,7 @@ Install
 Usage
 Run tests
 Deployment
-👥 Authors
+👥 Author
 🔭 Future Features
 🤝 Contributing
 ⭐️ Show your support
@@ -63,6 +63,8 @@ Github https://github.com/TaiwoEnoch
 Linkedin https://www.linkedin.com/in/taiwo01/
 Twitter https://twitter.com/taiwoenoch4
 (back to top)
+
+[Live Link(https://todo-jdyg4qziq-taiwoenoch.vercel.app/)]
 
 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
