@@ -30,7 +30,8 @@
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 [Todo-App] <a name="about-project"></a>
-<img src="/Users/danieltaiwo/Desktop/Screen Shot 2023-06-27 at 03.18.57.png">
+<img src="![Uploading Screen Shot 2023-06-27 at 03.18.57.png…]()
+">
 
 TaskMaster is a sleek and intuitive Todo app built with React, incorporating login and logout functionality. Seamlessly navigate through the app using the responsive navbar to access the home page for managing your tasks, and explore the about page for additional information. Stay organized and boost productivity with TaskMaster's user-friendly interface.
 
