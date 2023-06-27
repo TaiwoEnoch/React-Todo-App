@@ -54,7 +54,8 @@ TaskMaster is a sleek and intuitive Todo app built with React, incorporating log
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="(https://todo-jdyg4qziq-taiwoenoch.vercel.app/"></a>
+## 🚀 Live Demo 
+<a href="(https://todo-jdyg4qziq-taiwoenoch.vercel.app/">Live Demo</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
