@@ -1,87 +1,160 @@
-<img src="https://camo.githubusercontent.com/619300e0047fa698c6461b628db12c5478e60c6729fefecfda171058fa3ab91b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f544f444f4150502d70696e6b76696f6c6574">
+<a name="readme-top"></a>
 
+<div align="center">
 
-📗 Table of Contents
-📖 About the Project
-🛠 Built With
-Key Features
-💻 Getting Started
-Setup
-Prerequisites
-Install
-Usage
-Run tests
-Deployment
-👥 Author
-🔭 Future Features
-🤝 Contributing
-⭐️ Show your support
-🙏 Acknowledgements
-📝 License
-📖 Todo App
+  <h1><b>Todo-App</b></h1>
 
-Todo App
-This Project, divided into several parts, is very comprehensive, and covers all main concepts about React, from the very basics to some intermediate topics. Todo App, Form and also a react hamburger menu
+</div>
 
-🛠 Built With
-React and redux
-Visual Studio Code
-Git & Github
-Key Features
-Todo App
-Hamburger menu
-Login/Logout pagE
-(back to top)
+<!-- TABLE OF CONTENTS -->
 
-💻 Getting Started
-To get a local copy up and running follow these simple example steps.
+# 📗 Table of Contents
 
-Open terminal
-Clone this project by the command git clone https://github.com/TaiwoEnoch/Todo-App.git
-cd <clone> folder
-Run npm start in your local browser or using Live Server in Visual Studio Code.
-Prerequisites
-IDE to edit and run the code (We use Visual Studio Code 🔥).
-Node.js already downloaded.
-Create React App - click here to getting started.
-Setup
-Clone this repository to your desired folder: cd my-folder git clone https://github.com/TaiwoEnoch/Todo-App.git
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [📝 License](#license)
 
-Run tests
-To run tests, run the following command:
+<!-- PROJECT DESCRIPTION -->
 
-npx eslint "*/.{js,jsx}"
-Future Features
-Add more css properties
-Add more functionalities
-(back to top)
+# 📖 [Todo-App] <a name="about-project"></a>
+<img src="/Users/danieltaiwo/Desktop/Screen Shot 2023-06-27 at 03.18.57.png">
 
-👥 Author
-👤 Enoch Taiwo
+TaskMaster is a sleek and intuitive Todo app built with React, incorporating login and logout functionality. Seamlessly navigate through the app using the responsive navbar to access the home page for managing your tasks, and explore the about page for additional information. Stay organized and boost productivity with TaskMaster's user-friendly interface.
 
-Github https://github.com/TaiwoEnoch
-Linkedin https://www.linkedin.com/in/taiwo01/
-Twitter https://twitter.com/taiwoenoch4
-(back to top)
+## 🛠 Built With <a name="built-with"></a>
 
-[Live Link(https://todo-jdyg4qziq-taiwoenoch.vercel.app/)]
+### Tech Stack <a name="tech-stack"></a>
 
-🤝 Contributing
+- **ReactJS**
+- **JavaScript**
+- **CSS 3**
+
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+- **Add todo**
+- **Login**
+- **Home page**
+- **About page**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="(https://todo-jdyg4qziq-taiwoenoch.vercel.app/"></a>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need:
+
+```sh
+ npm install node
+```
+
+### Setup
+
+Clone this repository to your desired folder:
+
+```sh
+  cd my-folder
+  git https://github.com/TaiwoEnoch/Todo-App.git
+```
+
+### Install
+
+Install this project with:
+
+Example command:
+
+```sh
+  cd my-project
+  npm install
+```
+
+-
+
+### Usage
+
+To run the project, execute the following command:
+
+```sh
+  npm run start
+```
+
+-
+
+<!-- AUTHORS -->
+
+## 👥 Authors <a name="authors"></a>
+
+👤 **Taiwo Enoch**
+
+- GitHub: [@TaiwoEnoch](https://github.com/TaiwoEnoch)
+- Twitter: [@TaiwoEnoch4](https://twitter.com/taiwoenoch4)
+- LinkedIn: [@TaiwoEnoch](https://linkedin.com/in/https://www.linkedin.com/in/taiwo-enoch-b88550222/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- **More styling**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
 Contributions, issues, and feature requests are welcome!
 
-(back to top)
+Feel free to check the [issues page](../../issues/).
 
-⭐️ Show your support
-If you like this project you can give it a ⭐️.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-(back to top)
+<!-- SUPPORT -->
 
-🙏 Acknowledgments
-Hat tip to anyone whose code was used 🔰
-Inspiration 💘
-Microverse program ⚡ 🏹
-My family's support 🙌
-(back to top)
+## ⭐️ Show your support <a name="support"></a>
 
-📝 LICENSE
-This project is MIT licensed.
+If you like this project please give me a star⭐
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank Microverse, family and a friend for the support...
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>

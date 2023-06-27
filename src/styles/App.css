@@ -8,7 +8,7 @@ body {
   font-family: "Segoe UI", sans-serif;
   line-height: 1.4;
   color: #000;
-  background: #fff;
+  background: linear-gradient(90deg, rgba(238,174,235,1) 28%, rgba(196,226,167,0.052258403361344574) 44%, rgba(148,187,233,1) 90%);
   height: 100vh;
   font-weight: 400;
 }
